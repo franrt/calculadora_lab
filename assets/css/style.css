@@ -34,6 +34,8 @@ body {
     padding: 9% 7% 40% 7%;
     border-bottom-left-radius: 44px;
     border-bottom-right-radius: 44px;
+    background-color: green;
+    color: green;
 }
 
 .screen-case {
@@ -51,7 +53,7 @@ body {
     font-weight: 800;
     font-size: 30px;
     text-align: right;
-    color: white;
+    color: green;
 }
 
 hr {
